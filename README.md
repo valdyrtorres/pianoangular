@@ -1,3 +1,8 @@
+AMBIENTE USADO NODE 18 com Angular 14 (eu sei que diz que angula 14 não é suportado pelo node 18)
+USE nvm use 18 para ter certeza e verifique com nvm list e veja se p node 18 está setado.
+ng serve --o
+
+---------------------------
 # Piano
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
